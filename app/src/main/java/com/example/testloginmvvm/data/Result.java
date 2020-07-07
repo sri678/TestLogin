@@ -6,7 +6,7 @@ package com.example.testloginmvvm.data;
 public class Result<T> {
     // hide the private constructor to limit subclass types (Success, Error)
     private Result() {
-        //Empty constructor...test
+        //Empty constructor...test test
     }
 
     @Override
